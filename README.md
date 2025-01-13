@@ -13,10 +13,7 @@ This is a demonstration version of a fully-featured e-commerce platform built wi
 - 📝 Product management
 - 📈 Sales analytics
 
-## Demo Access
-You can explore the admin features using these demo credentials:
-- Email: `demo@example.com`
-- Password: `password`
+
 
 ## Technical Stack
 - React 18
