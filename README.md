@@ -13,6 +13,10 @@ This is a demonstration version of a fully-featured e-commerce platform built wi
 - 📝 Product management
 - 📈 Sales analytics
 
+## Demo Access
+You can explore the admin features using these demo credentials:
+- Email: `demo@example.com`
+- Password: `password`
 
 ## Technical Stack
 - React 18
@@ -50,8 +54,9 @@ This is a demonstration project intended to showcase our capabilities in buildin
 ## Get the Full Version
 For a production-ready e-commerce solution tailored to your business needs, please contact us:
 
-- 📧 Email: info.techhubkenya@gmail.com
-- 📞 Phone: (+254)796070811
+- 📧 Email: contact@example.com
+- 🌐 Website: www.example.com
+- 📞 Phone: (123) 456-7890
 
 Our team of experts will work with you to create a customized solution that meets your specific requirements and helps grow your business.
 
