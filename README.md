@@ -51,9 +51,8 @@ This is a demonstration project intended to showcase our capabilities in buildin
 ## Get the Full Version
 For a production-ready e-commerce solution tailored to your business needs, please contact us:
 
-- 📧 Email: contact@example.com
-- 🌐 Website: www.example.com
-- 📞 Phone: (123) 456-7890
+- 📧 Email: info.techhubkenya@gmail.com
+- 📞 Phone: (+254)796070811
 
 Our team of experts will work with you to create a customized solution that meets your specific requirements and helps grow your business.
 
@@ -61,4 +60,4 @@ Our team of experts will work with you to create a customized solution that meet
 This demo version is provided for demonstration purposes only. The code and design are protected by copyright and may not be used for commercial purposes without explicit permission.
 
 ---
-© 2024 Your Company Name. All rights reserved.
+© 2024 Info Tech. All rights reserved.
